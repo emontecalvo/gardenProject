@@ -1,0 +1,22 @@
+/* Put CSS rules here */
+body {
+	background-color: papayawhip;
+}
+
+.testdiv {
+	border: 2px solid black;
+	width: 90%;
+}
+
+.navigation li {
+	display: inline;
+}
+
+.navigation {
+	text-align: right;
+}
+
+.card_list {
+	display:flex;
+	flex-direction:row;
+}
